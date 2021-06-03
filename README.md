@@ -7,7 +7,7 @@
 # GitHub Stars
 GitHub Stars is a program that empowers Stars to **Inspire**, **Educate** and **Influence** communities.
 
-The program recognises and equips Stars with resources that you may need to support communities where more than 40 million people learn, share, and work together to build software, using GitHub, the home for all developers.
+The program recognises and equips Stars with resources that you may need to support communities where more than 65 million people learn, share, and work together to build software, using GitHub, the home for all developers.
 
 GitHub Stars are a diverse set of individuals, located globally, that nurture the community. You are community influencers who are experts and technical leaders who passionately share technical expertise with the community.
 
