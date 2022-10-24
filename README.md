@@ -1,7 +1,9 @@
 # GitHub Stars Program Details
 
 <p align="center">
+  <a href="https://stars.github.com/" target="_blank">
   <img width=300 src="./img/logo.png">
+  </a>
 </p>
 
 # GitHub Stars
