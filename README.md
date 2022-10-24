@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<!-- <a href="https://stars.github.com/"><img src="./img/logo.png"></a>
- -->
-
 # GitHub Stars
 GitHub Stars is a program that empowers Stars to **Inspire**, **Educate** and **Influence** communities.
 
