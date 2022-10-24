@@ -1,8 +1,13 @@
 # GitHub Stars Program Details
 
 <p align="center">
+  <a href="https://stars.github.com/" target="_blank">
   <img width=300 src="./img/logo.png">
+  </a>
 </p>
+
+<!-- <a href="https://stars.github.com/"><img src="./img/logo.png"></a>
+ -->
 
 # GitHub Stars
 GitHub Stars is a program that empowers Stars to **Inspire**, **Educate** and **Influence** communities.
